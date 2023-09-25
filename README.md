@@ -2,6 +2,7 @@
 Traditional connect 4 game played against an AI bot.
 
 #moonraft
+
 This project was made for the assessment round of the moonraft selection process
 
 #language 
